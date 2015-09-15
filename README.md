@@ -1,2 +1,2 @@
 # Listen
-Listen your bookmarks, easily
+Listen to your bookmarks.

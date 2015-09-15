@@ -17,3 +17,4 @@ test 17
 test 19
 test 20
 last test for takadan github
+test from lenovo
